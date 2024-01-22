@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reginaldo Reis</h1>
-<h3 align="center">Solutions Architect and Software developer💻 Systems Design and Integrations</h3>
+<h3 align="center">Solutions Architect and Software developer 💻</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regireis7" alt="regireis7" /></a> </p>
 

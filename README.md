@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regireis7" alt="regireis7" /></a> </p>
 
-- 🔭 I’m currently working on **Specialized chatbot using open-source LLMs**
+- 🔭 I’m currently working on **End to End LLM Applications**
 
 - 🌱 I’m currently learning **Generative AI**
 
